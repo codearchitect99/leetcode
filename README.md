@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codearchitect99/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/codearchitect99/leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/codearchitect99/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## String
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codearchitect99/leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/codearchitect99/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/codearchitect99/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
